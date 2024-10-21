@@ -226,7 +226,7 @@
     width: 70vw;
     height: 5vh;
     background-color: #ff4a01;
-    margin-top: 34%;
+    margin-top: 36%;
     border: none;
     cursor: pointer;
     font-weight: 800;
@@ -237,6 +237,7 @@
   .loader{
     margin-top: 21%;
     margin-left: 43%;
+    margin-bottom: -30%;
   }
 }
 
