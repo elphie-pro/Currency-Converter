@@ -164,7 +164,7 @@
 @media (max-width: 375px) {
   .container{
     width: 70vw;
-    height: 70vh;
+    height: 60vh;
     margin-left:13%;
     margin-top: 30%;
   }
@@ -217,16 +217,16 @@
   }
   
   .ans{
-    margin-top: 61%;
+    margin-top: 41%;
     margin-left: 20%;
-    margin-bottom: -33%;
+    margin-bottom: -17%;
   }
   
   .btn{
     width: 70vw;
     height: 5vh;
     background-color: #ff4a01;
-    margin-top: 55%;
+    margin-top: 35%;
     border: none;
     cursor: pointer;
     font-weight: 800;
