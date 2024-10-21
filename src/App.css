@@ -164,7 +164,7 @@
 @media (max-width: 375px) {
   .container{
     width: 70vw;
-    height: 60vh;
+    height: 70vh;
     margin-left:13%;
     margin-top: 30%;
   }
@@ -217,7 +217,7 @@
   }
   
   .ans{
-    margin-top: 28%;
+    margin-top: 38%;
     margin-left: 20%;
     margin-bottom: -17%;
   }
@@ -226,7 +226,7 @@
     width: 70vw;
     height: 5vh;
     background-color: #ff4a01;
-    margin-top: 23%;
+    margin-top: 34%;
     border: none;
     cursor: pointer;
     font-weight: 800;
