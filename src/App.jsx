@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 import image from './assets/arrow 1.svg'
 import { MoonLoader } from 'react-spinners'
 import './App.css'
